@@ -20,7 +20,7 @@
 
 <br />
 
-<!-- ABOUT ME: Clean Professional Heading (No Emojis) -->
+<!-- ABOUT ME -->
 <h2 align="left" style="color: #5b51d8; text-transform: uppercase; border-bottom: 3px solid #5b51d8; display: inline-block;">ABOUT ME</h2>
 <br />
 
@@ -36,33 +36,33 @@ I am a technical problem solver graduating from **SGGSIE&T** with a specialized 
 <br />
 <br />
 
-<!-- TECHNICAL SKILLS -->
+<!-- TECHNICAL SKILLS: "FLOATING NEON" DESIGN -->
 <h2 align="left" style="color: #5b51d8; text-transform: uppercase; border-bottom: 3px solid #5b51d8; display: inline-block;">TECHNICAL INFRASTRUCTURE</h2>
 <br />
 
 <div align="left">
   <!-- Python -->
-  <img src="https://img.shields.io/badge/_-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
   <!-- Java -->
-  <img src="https://img.shields.io/badge/_-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" />
   <!-- MySQL -->
-  <img src="https://img.shields.io/badge/_-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <!-- Git -->
-  <img src="https://img.shields.io/badge/_-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
   <!-- TensorFlow -->
-  <img src="https://img.shields.io/badge/_-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
   <!-- PyTorch -->
-  <img src="https://img.shields.io/badge/_-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
   <!-- Scikit-Learn -->
-  <img src="https://img.shields.io/badge/_-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
   <!-- Pandas -->
-  <img src="https://img.shields.io/badge/_-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" />
   <!-- NumPy -->
-  <img src="https://img.shields.io/badge/_-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243" />
   <!-- FastAPI -->
-  <img src="https://img.shields.io/badge/_-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <!-- Streamlit -->
-  <img src="https://img.shields.io/badge/_-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
 </div>
 
 <br />
