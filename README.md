@@ -73,10 +73,7 @@ I specialize in transforming theoretical ML concepts into scalable, production-r
 <br />
 
 <div align="center">
-  <!-- 1. Real-Time Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak1409&theme=tokyonight&hide_border=true&background=0D1117&ring=5b51d8&fire=5b51d8&currStreakLabel=5b51d8" alt="Streak Stats" />
-  
-  <br /> <br />
+ 
   
   <!-- 2. Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak1409&bg_color=0D1117&color=5b51d8&line=5b51d8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
