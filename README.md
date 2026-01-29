@@ -7,7 +7,7 @@
 
 <!-- CONNECT BADGES -->
 <div align="center">
-  <a href="https://sarthak.dev">
+  <a href="https://codebasics.io/portfolio/Sarthak-Maddi">
     <img src="https://img.shields.io/badge/WEBSITE-sarthak.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/sarthakmaddi14/">
@@ -25,18 +25,18 @@
 <br />
 
 > **Data Scientist** & **Computer Science Engineer** (Class of 2026)
-> Architecting scalable AI pipelines and optimizing Vision-Language Models.
+> Building efficient, real-world AI systems with a strong foundation in Machine Learning and software engineering.
 
-I am a technical problem solver graduating from **SGGSIE&T** with a specialized focus on bridging the gap between theoretical Machine Learning research and production-grade deployment. My work centers on high-performance model inference and complex data visualization.
+I specialize in transforming theoretical ML concepts into scalable, production-ready solutions, with hands-on experience in **model development**, **optimization**, and **data-driven problem solving**. My interests span predictive modeling, computer vision, and generative AI, with a growing focus on improving inference performance and system efficiency.
 
-*   **CORE EXPERTISE:** Predictive Modeling, Computer Vision, Generative AI
-*   **CURRENT RESEARCH:** Optimizing inference latency in Large Language Models
+*   **CORE EXPERTISE:** Machine Learning, Computer Vision, Data Analysis, Generative AI
+*   **TECH STACK:** Python, SQL, FastAPI, Streamlit, MySQL, MongoDB
 *   **ACADEMIC STANDING:** **7.84 / 10 CGPA**
 
 <br />
 <br />
 
-<!-- TECHNICAL SKILLS: "FLOATING NEON" DESIGN -->
+<!-- TECHNICAL SKILLS: FLOATING NEON DESIGN -->
 <h2 align="left" style="color: #5b51d8; text-transform: uppercase; border-bottom: 3px solid #5b51d8; display: inline-block;">TECHNICAL INFRASTRUCTURE</h2>
 <br />
 
@@ -68,11 +68,17 @@ I am a technical problem solver graduating from **SGGSIE&T** with a specialized 
 <br />
 <br />
 
-<!-- ANALYTICS -->
+<!-- ANALYTICS: SHOWING BOTH STREAK & ACTIVITY GRAPH -->
 <h2 align="left" style="color: #5b51d8; text-transform: uppercase; border-bottom: 3px solid #5b51d8; display: inline-block;">DEVELOPMENT ANALYTICS</h2>
 <br />
 
 <div align="center">
+  <!-- 1. Real-Time Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak1409&theme=tokyonight&hide_border=true&background=0D1117&ring=5b51d8&fire=5b51d8&currStreakLabel=5b51d8" alt="Streak Stats" />
+  
+  <br /> <br />
+  
+  <!-- 2. Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak1409&bg_color=0D1117&color=5b51d8&line=5b51d8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
