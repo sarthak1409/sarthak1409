@@ -20,51 +20,58 @@
 
 <br />
 
-<!-- ABOUT ME -->
-<h3 align="left">ABOUT ME</h3>
+<!-- ABOUT ME: Clean Professional Heading (No Emojis) -->
+<h2 align="left" style="color: #5b51d8; text-transform: uppercase; border-bottom: 3px solid #5b51d8; display: inline-block;">ABOUT ME</h2>
+<br />
 
 > **Data Scientist** & **Computer Science Engineer** (Class of 2026)
 > Architecting scalable AI pipelines and optimizing Vision-Language Models.
 
 I am a technical problem solver graduating from **SGGSIE&T** with a specialized focus on bridging the gap between theoretical Machine Learning research and production-grade deployment. My work centers on high-performance model inference and complex data visualization.
 
-*   **CORE EXPERTISE** — Predictive Modeling, Computer Vision, Generative AI
-*   **CURRENT RESEARCH** — Optimizing inference latency in Large Language Models
-*   **ACADEMIC STANDING** — **7.84 / 10 CGPA**
+*   **CORE EXPERTISE:** Predictive Modeling, Computer Vision, Generative AI
+*   **CURRENT RESEARCH:** Optimizing inference latency in Large Language Models
+*   **ACADEMIC STANDING:** **7.84 / 10 CGPA**
 
 <br />
+<br />
 
-<!-- TECHNICAL SKILLS: NOW USING 'SKILL ICONS' FOR A PREMIUM LOOK -->
-<h3 align="left">TECHNICAL INFRASTRUCTURE</h3>
+<!-- TECHNICAL SKILLS -->
+<h2 align="left" style="color: #5b51d8; text-transform: uppercase; border-bottom: 3px solid #5b51d8; display: inline-block;">TECHNICAL INFRASTRUCTURE</h2>
+<br />
 
-<div align="center">
-  <br />
-  <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git&theme=dark" />
-  <br />
-  <br />
-  <!-- AI & Data -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&theme=dark" />
-  <br />
-  <br />
-  <!-- Web & Cloud -->
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,postman&theme=dark" />
-  <br />
+<div align="left">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/_-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/_-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/_-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/_-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- TensorFlow -->
+  <img src="https://img.shields.io/badge/_-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/_-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <!-- Scikit-Learn -->
+  <img src="https://img.shields.io/badge/_-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <!-- Pandas -->
+  <img src="https://img.shields.io/badge/_-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <!-- NumPy -->
+  <img src="https://img.shields.io/badge/_-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <!-- FastAPI -->
+  <img src="https://img.shields.io/badge/_-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <!-- Streamlit -->
+  <img src="https://img.shields.io/badge/_-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
 
 <br />
-
-<!-- CONTRIB GRAPHS: CUSTOMIZED COLOR TO MATCH HEADER (#5b51d8) -->
-<h3 align="left">DEVELOPMENT ANALYTICS</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak1409&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=5b51d8&icon_color=5b51d8&text_color=c9d1d9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak1409&layout=compact&hide_border=true&bg_color=0D1117&title_color=5b51d8&icon_color=5b51d8&text_color=c9d1d9&langs_count=6" height="150" alt="Top Languages" />
-</div>
-
 <br />
 
-<!-- ACTIVITY GRAPH: CUSTOMIZED COLOR TO MATCH HEADER -->
+<!-- ANALYTICS -->
+<h2 align="left" style="color: #5b51d8; text-transform: uppercase; border-bottom: 3px solid #5b51d8; display: inline-block;">DEVELOPMENT ANALYTICS</h2>
+<br />
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak1409&bg_color=0D1117&color=5b51d8&line=5b51d8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
